@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/bar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/bg_widget"
+        android:drawableStart="@drawable/ic_widget"
+        android:drawablePadding="25dp"
+        android:gravity="center_vertical"
+        android:paddingHorizontal="15dp"
+        android:text="@string/appwidget_text"
+        android:textColor="@color/fg"
+        android:textSize="15sp" />
+</FrameLayout>

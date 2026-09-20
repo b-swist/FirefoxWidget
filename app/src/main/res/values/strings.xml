@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firefox Widget</string>
+    <string name="appwidget_text">Search the Web</string>
+    <string name="app_widget_description">Firefox Widget</string>
+</resources>
